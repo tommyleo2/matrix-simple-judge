@@ -1,2 +1,2 @@
 # matrix-simple-judge
-A simple implementation of matrix judge system
+A simple python implementation of matrix judge system
